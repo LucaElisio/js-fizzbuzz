@@ -13,6 +13,10 @@
 
 ### Svolgimento
 
+### HTML
+1. Creo container
+2. Creo la row
+
 #### JS
 1. Creo un ciclo for per stampare i numeri da 1 a 100
 2. Dichiaro variabile multiple con stringa vuota
@@ -21,3 +25,4 @@
     - [x] Altrimenti se il numero corrente è multiplo di 5 --> multiple = "Buzz"
     - [x] Altrimenti se il numero corrente è multiplo sia di 5 che di 3 --> multiple = "FizzBuzz"
 4. Stampo il risultato in console
+
